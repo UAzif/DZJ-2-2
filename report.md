@@ -11,8 +11,11 @@
 ## Описание процесса тестирования
 
 В процессе тестирования использовались следующие артефакты
-[Ошибка в коде приложения  при расчете дополнительного бонуса новым клиентам](https://github.com/UAzif/DZJ-2-2/issues/1)
-В качестве тестовых данных использовались данные [Задача №2 - Precision](https://github.com/netology-code/javaqa-homeworks/tree/master/programming)
+
+ [Ошибка в коде приложения  при расчете дополнительного бонуса новым клиентам](https://github.com/UAzif/DZJ-2-2/issues/1)
+
+ В качестве тестовых данных использовались данные
+ [Задача №2 - Precision](https://github.com/netology-code/javaqa-homeworks/tree/master/programming)
 
 
 Тестирование производилось в следующем окружении:
